@@ -7,7 +7,7 @@ Using a percentile framework, rainfall conditions are evaluated via local climat
 - Temporal analysis of daily rainfall variability
 - Identification of representative drought and extreme rainfall events
 - Spatial mapping of climate risk using percentile thresholds
-- Raster–vector clipping using GeoPandas and rioxarray
+- Raster–vector clipping using GeoPandas and rioxarray  
 This was using Chad.
 
 ## Methods
