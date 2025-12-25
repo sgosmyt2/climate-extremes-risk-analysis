@@ -1,4 +1,4 @@
-# Spatial Analysis of Drought and Extreme Rainfall Risk
+# Dzud and Drought, the affects of extreme weather on regional drought and climate risks
 
 This project explores the geospatial characteristics of drought and extreme rainfall using satellite derived precipitation data and geospatial tools in Python.
 Using a percentile framework, rainfall conditions are evaluated via local climatology, allowing climate risk to be assessed across regions with different climates.
@@ -17,8 +17,9 @@ Using a percentile framework, rainfall conditions are evaluated via local climat
 - Metrics: local precipitation percentiles
 
 ## Planned Extensions
-- Comparative case study in a second region (e.g. Southeast Asia or South America)
+- Comparative case study in Mongolia and the Dzud of 2011
 - Cross regional comparison of drought and extreme rainfall patterns
 - Summary statistics comparing climate risk profiles across regions
+- Comparison of Chad historically and now to show the extreme affects of the regional drought in the timespan 2010-2012
 
 This repository is intended as a portfolio project demonstrating applied geospatial and climate data analysis.
