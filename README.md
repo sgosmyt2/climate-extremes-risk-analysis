@@ -21,7 +21,7 @@ Using a percentile framework, rainfall conditions are evaluated via local climat
 - Cross regional comparison of drought and extreme rainfall patterns
 - Summary statistics comparing climate risk profiles across regions
 - Comparison of Chad historically and now to show the extreme affects of the regional drought in the timespan 2010-2012
-- Further expanding on Chad for a greater comparison with the other country
+- Further expanding on Chad for a greater comparison with Mongolia
 
 
 This repository is intended as a portfolio project demonstrating applied geospatial and climate data analysis.
