@@ -36,17 +36,17 @@ This project combines temporal, seasonal, and spatial analyses:
 
 ### Key Findings
 
-**Annual Rainfall Is Misleading**
+**Annual Rainfall Is Misleading**  
 National annual rainfall in 2011 was near the historical mean. This masks severe climate stress experienced on the ground.
 
-**Wet‑Season Failure Explains the Crisis**
+**Wet‑Season Failure Explains the Crisis**  
 June–September rainfall in the Sahel fell below the 10th percentile. 2011 ranks among the driest wet seasons in the historical  record.
 
-**Drought and Flood Risk Co‑exist**
-Large portions of Chad experienced persistent drought. Localized regions simultaneously experienced extreme rainfall events.Highlights compound climate risk in semi‑arid regions.
+**Drought and Flood Risk Co‑exist**  
+Large portions of Chad experienced persistent drought. Localized regions simultaneously experienced extreme rainfall events.Highlights compound climate risk in semi arid regions.
 
-**Spatial Perspective Is Essential**
-National averages hide regional extremes. Percentile‑based spatial mapping reveals coherent drought patterns and localized rainfall extremes.
+**Spatial Perspective Is Essential**  
+National averages hide regional extremes. Percentile spatial mapping reveals coherent drought patterns and localized rainfall extremes.
 
 ### Tools
 Python, xarray, Pandas & GeoPandas, rioxarray, NumPy, Matplotlib, Seaborn
