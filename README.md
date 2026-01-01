@@ -8,6 +8,9 @@ The completed part of the analysis focuses on Chad during 2011, a year embedded 
 
 This repository is intended as a portfolio‑quality demonstration of applied climate data science and geospatial analysis.
 
+**Note**:
+Visual themes for all visualisations and figures was selected off of a single accent colour. This colour was chosen for personal consistency and as a reminder to of explaining concepts out loud to someone who may not have knowledge in the area.
+
 ## 2011 Chad
 The climatological analysis of Chad in 2011 has been completed as of 29/12/2025
 
